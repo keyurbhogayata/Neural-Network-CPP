@@ -5,6 +5,7 @@
 using namespace std;
 int main()
 {
+   // Edited by KB
    /*Constructor
    NN({n1,n2...nn} - number of neurons in each layer, 
    activationfunction , learning rate , epochs )
